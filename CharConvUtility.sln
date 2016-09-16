@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharConvUtility", "CharConvUtility.csproj", "{62BB701B-B8F8-4015-A07F-919F7A92245E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{62BB701B-B8F8-4015-A07F-919F7A92245E}.Debug.ActiveCfg = Debug|.NET
+		{62BB701B-B8F8-4015-A07F-919F7A92245E}.Debug.Build.0 = Debug|.NET
+		{62BB701B-B8F8-4015-A07F-919F7A92245E}.Release.ActiveCfg = Release|.NET
+		{62BB701B-B8F8-4015-A07F-919F7A92245E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
